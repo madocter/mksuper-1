@@ -116,7 +116,7 @@ Final flashable super image.
 
 ***NOTE***
 
-**Titan Slim** and **Titan Pocket** need those images to be flashed aswell not only the super, take them from stock folder:
+**Titan Slim** and **Titan Pocket** need those images to be flashed as well not only the super, take them from stock directory:
 
 `vbmeta.img`  
 `vbmeta_system.img`  
